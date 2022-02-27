@@ -1,10 +1,29 @@
 .main {
-    max-width: 800px;
-    align-items: center;
+
+}
+
+.content_main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
 }
 
 .btn {
     width: 800px;
     height: 150px;
     font-size: 50px;
+}
+
+img {
+    width: 800px;
+    height: 800px;
+}
+
+video {
+    width: 800px;
+    height: 800px;
 }
